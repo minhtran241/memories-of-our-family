@@ -1,26 +1,36 @@
-# :closed_book: Memories (Full-Stack App)
+<div align='center'>
+<img src='./client/src/images/logo3.png' width='100px' height='100px'/>
+</div>
+<div align='center'>
+<h1>📷 Memories 📸</h1>
+</div>
+
+### ✅ Memories (Full-Stack App)
 
 ### _Memories Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
+### _I created Memories for my family as a gift for us to store our happy memories 👨‍👩‍👧‍👦_
 
 ### Link :link: https://memories-of-our-family.herokuapp.com/
 
 ### Backend Deployed at: :link: https://memories-family-api.herokuapp.com/
 
-## Interface
+## Desktop Interface 🖥
 
 <img src='./images/home.png/' />
 <img src='./images/postDetail.png/' />
 <img src='./images/signIn.png/' />
 <img src='./images/signUp.png/' />
 
-## Mobile Interface
+## Mobile Interface 📱
 
-<img src='./images/phone0.png/' />
-<img src='./images/phone1.png/' />
+<div align='center'>
+<img src='./images/phone0.png/' width='420px' height='850px' />
+<img src='./images/phone1.png/' width='420px' height='850px'/>
+</div>
 
 ## Run Locally
 
--   Run this command `git clone https://github.com/developer-junaid/MERN-Memories-App.git`
+-   Run this command `git clone https://github.com/minhtran241/memories-of-our-family.git`
 -   You are now in the dev environment and you can play around
 
 ## Features
