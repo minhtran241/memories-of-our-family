@@ -1,0 +1,28 @@
+# dependencies
+/server/node_modules
+/client/node_modules
+.pnp
+.pnp.js
+
+# testing
+/server/coverage
+/client/coverage
+
+# production
+/server/build
+/client/build
+
+# misc
+.env
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/server/npm-debug.log*
+/server/yarn-debug.log*
+/server/yarn-error.log*
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
