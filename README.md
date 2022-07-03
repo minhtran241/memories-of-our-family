@@ -5,7 +5,7 @@
 <h1>📷 Memories 📸</h1>
 </div>
 
-### ✅ Memories (Full-Stack App)
+### ✅ Memories (MERN Full-Stack App)
 
 ### _Memories Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
 ### _I created Memories for my family as a gift for us to store our happy memories 👨‍👩‍👧‍👦_
