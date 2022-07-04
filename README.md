@@ -10,7 +10,7 @@
 ### _Memories Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
 ### _I created Memories for my family as a gift for us to store our happy memories 👨‍👩‍👧‍👦_
 
-### Link :link: https://memories-of-our-family.herokuapp.com/
+### Link :link: https://memories-of-us.netlify.app/
 
 ### Backend Deployed at: :link: https://memories-family-api.herokuapp.com/
 
