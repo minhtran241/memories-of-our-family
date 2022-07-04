@@ -24,8 +24,8 @@
 ## Mobile Interface 📱
 
 <div align='center'>
-<img src='./images/phone0.png/' width='420px' height='850px' />
-<img src='./images/phone1.png/' width='420px' height='850px'/>
+<img src='./images/phone0.png/' width='400px' height='850px' />
+<img src='./images/phone1.png/' width='400px' height='850px'/>
 </div>
 
 ## Run Locally
